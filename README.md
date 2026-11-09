@@ -12,6 +12,9 @@ Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [PalindromeNumber.java](src/LeetCode_Question_9/PalindromeNumber.java) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Roman2Integer.java](src/LeetCode_Question_13/Roman2Integer.java) |
 
+## Leet Code
+--> [Leet Code Profile](https://leetcode.com/u/aryan_r03/)
+
 ## Project Structure
 
 Each question lives in its own folder inside `src/`:

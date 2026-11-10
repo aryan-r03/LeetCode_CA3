@@ -11,6 +11,9 @@ Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [TwoSum.java](src/LeetCode_Question_1/TwoSum.java) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [PalindromeNumber.java](src/LeetCode_Question_9/PalindromeNumber.java) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Roman2Integer.java](src/LeetCode_Question_13/Roman2Integer.java) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [ValidParentheses.java](src/LeetCode_Question_20/ValidParentheses.java) |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [FizzBuzz.java](src/LeetCode_Question_412/FizzBuzz.java) |
+| 2469 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | [ConvertTheTemperature.java](src/LeetCode_Question_2469/ConvertTheTemperature.java) |
 
 ## Leet Code
 --> [Leet Code Profile](https://leetcode.com/u/aryan_r03/)
@@ -24,10 +27,22 @@ LeetCode_CA2/
 ├── src/
 │   ├── LeetCode_Question_1/
 │   │                     └── TwoSum.java
+│   │
 │   ├── LeetCode_Question_9/
 │   │                     └── PalindromeNumber.java
-│   └── LeetCode_Question_13/
-│                         └── Roman2Integer.java
+│   │
+│   ├── LeetCode_Question_13/
+│   │                     └── Roman2Integer.java
+│   │
+│   ├── LeetCode_Question_20/
+│   │                     └── ValidParentheses.java
+│   │
+│   ├── LeetCode_Question_412/
+│   │                     └── FizzBuzz.java
+│   │
+│   └── LeetCode_Question_2469/
+│                         └── ConvertTheTemperature.java
+│  
 ├── LeetCode_CA2.iml
 └── .gitignore
 ```

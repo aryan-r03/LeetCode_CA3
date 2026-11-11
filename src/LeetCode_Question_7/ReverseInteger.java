@@ -1,6 +1,6 @@
 package LeetCode_Question_7;
 
-// LeetCode Question No. == Reverse Integer;
+// LeetCode Question No. 7 == Reverse Integer;
 
 import java.util.Scanner;
 

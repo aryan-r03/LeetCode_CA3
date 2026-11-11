@@ -1,6 +1,6 @@
 package LeetCode_Question_50;
 
-// LeetCode Question No. 50 == Pow(x,y);
+// LeetCode Question No. 50 == Pow(x,n);
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ class Solution {
     }
 }
 
-public class PowXY {
+public class PowXN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -2,11 +2,11 @@
 
 Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment.
 
-**Progress:** 3 of 17 questions completed
+**Progress:** 10 of 17 questions completed
 
-## Problems Solved
+## Solved Problems
 
-| # | Problem | Difficulty | Solution |
+| Problem No. | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [TwoSum.java](src/LeetCode_Question_1/TwoSum.java) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [PalindromeNumber.java](src/LeetCode_Question_9/PalindromeNumber.java) |
@@ -25,7 +25,7 @@ Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment
 
 ## Project Structure
 
-Each question lives in its own folder inside `src/`:
+Each question lives in its own package inside `src/`:
 
 ```
 LeetCode_CA2/

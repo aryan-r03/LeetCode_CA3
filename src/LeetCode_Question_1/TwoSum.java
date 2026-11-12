@@ -2,6 +2,7 @@ package LeetCode_Question_1;
 
 // LeetCode Question No. 1 == Two Sum;
 
+import java.util.Scanner;
 import java.util.Arrays;
 
 class Solution {
@@ -19,8 +20,13 @@ class Solution {
 
 public class TwoSum {
     public static void main(String[] args) {
-        int[] nums = {2, 7, 11, 15};
-        int target = 9;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter 4-values for the array : ");
+        int[] nums = new int[]{sc.nextInt(), sc.nextInt(), sc.nextInt(), sc.nextInt()};
+
+        System.out.print("Enter the target value : ");
+        int target = sc.nextInt();
 
         Solution s1 = new Solution();
 
@@ -28,6 +34,8 @@ public class TwoSum {
 
         System.out.println("==============================================================");
         System.out.println("The target could be attained by the sum of Indices : \033[33m" + Arrays.toString(res));
+
+
     }
 }
 

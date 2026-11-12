@@ -59,7 +59,7 @@ LeetCode_CA2/
 │   ├── LeetCode_Question_50/
 │   │                     └── PowXN.java
 │   │
-│   ├── LeetCode_Question_50/
+│   ├── LeetCode_Question_287/
 │   │                     └── FindDuplicateNumbers.java
 │   │
 │   ├── LeetCode_Question_412/

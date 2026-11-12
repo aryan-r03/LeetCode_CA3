@@ -13,16 +13,18 @@ Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment
 | 3.| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Roman2Integer.java](src/LeetCode_Question_13/Roman2Integer.java) |
 | 4.| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [ValidParentheses.java](src/LeetCode_Question_20/ValidParentheses.java) |
 | 5.| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [FizzBuzz.java](src/LeetCode_Question_412/FizzBuzz.java) |
-| 6.| 1295 | [Find Numbers with Even Number in Digit](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [NumbersWithEvenNumberInDigit.java](src/LeetCode_Question_2469/NumbersWithEvenNumberInDigit.java) |
-| 7.| 1480 | [Running Sum of 1D-Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [RunningSumOf1_D_Array.java](src/LeetCode_Question_2469/RunningSumOf1_D_Array.java) |
-| 8.| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | [MaximumWords.java](src/LeetCode_Question_20/MaximumWords.java) |
-| 9.| 2235 | [Add Two Numbers](https://leetcode.com/problems/add-two-integers/) | Easy | [AddTwoNumbers.java](src/LeetCode_Question_412/AddTwoNumbers.java) |
+| 6.| 1295 | [Find Numbers with Even Number in Digit](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [NumbersWithEvenNumberInDigit.java](src/LeetCode_Question_1295/NumbersWithEvenNumberInDigit.java) |
+| 7.| 1480 | [Running Sum of 1D-Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [RunningSumOf1_D_Array.java](src/LeetCode_Question_1480/RunningSumOf1_D_Array.java) |
+| 8.| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | Easy | [MaximumWords.java](src/LeetCode_Question_2114/MaximumWords.java) |
+| 9.| 2235 | [Add Two Numbers](https://leetcode.com/problems/add-two-integers/) | Easy | [AddTwoNumbers.java](src/LeetCode_Question_2235/AddTwoNumbers.java) |
 | 10.| 2469 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | [ConvertTheTemperature.java](src/LeetCode_Question_2469/ConvertTheTemperature.java) |
-| 11.| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [ReverseInteger.java](src/LeetCode_Question_412/ReverseInteger.java) |
-| 12.| 29 | [Divide Two integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [DivideTwoIntegers.java](src/LeetCode_Question_2469/DivideTwoIntegers.java) |
-| 13.| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [MultiplyStrings.java](src/LeetCode_Question_2469/MultiplyStrings.java) |
-| 14.| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [PowXN.java](src/LeetCode_Question_2469/PowXN.java) |
-| 15.| 287 | [Find the Duplicate Numbers](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [FindDuplicateNumbers.java](src/LeetCode_Question_2469/FindDuplicateNumbers.java) |
+| 11.| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [ReverseInteger.java](src/LeetCode_Question_7/ReverseInteger.java) |
+| 12.| 29 | [Divide Two integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [DivideTwoIntegers.java](src/LeetCode_Question_29/DivideTwoIntegers.java) |
+| 13.| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [MultiplyStrings.java](src/LeetCode_Question_43/MultiplyStrings.java) |
+| 14.| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [PowXN.java](src/LeetCode_Question_50/PowXN.java) |
+| 15.| 287 | [Find the Duplicate Numbers](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [FindDuplicateNumbers.java](src/LeetCode_Question_287/FindDuplicateNumbers.java) |
+| 16.| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [FirstMissingPositive.java](src/LeetCode_Question_41/FirstMissingPositive.java) |
+| 17.| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [ValidNumber.java](src/LeetCode_Question_65/ValidNumber.java) |
 
 
 ## Leet Code
@@ -53,11 +55,17 @@ LeetCode_CA2/
 │   ├── LeetCode_Question_29/
 │   │                     └── DivideTwoIntegers.java
 │   │
+│   ├── LeetCode_Question_41/
+│   │                     └── FirstMissingPositive.java
+│   │
 │   ├── LeetCode_Question_43/
 │   │                     └── MultiplyStrings.java
 │   │
 │   ├── LeetCode_Question_50/
 │   │                     └── PowXN.java
+│   │
+│   ├── LeetCode_Question_65/
+│   │                     └── ValidNumber.java
 │   │
 │   ├── LeetCode_Question_287/
 │   │                     └── FindDuplicateNumbers.java

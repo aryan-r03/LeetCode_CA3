@@ -36,5 +36,7 @@ public class PalindromeNumber {
 
         System.out.println("================================");
         System.out.println("Is \033[31m" + num + "\033[0m a Palindrome ? --> \033[33m" + res);
+
+        sc.close();
     }
 }

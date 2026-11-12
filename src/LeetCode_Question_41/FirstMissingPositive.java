@@ -34,5 +34,7 @@ public class FirstMissingPositive {
 
         System.out.println("-------------------------------");
         System.out.println("The First Missing Positive is : \033[32m" + res);
+
+        sc.close();
     }
 }

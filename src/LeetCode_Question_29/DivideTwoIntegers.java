@@ -52,5 +52,7 @@ public class DivideTwoIntegers {
         System.out.println("-----------------------");
         System.out.println("The Quotient is : \033[32m" + res);
 
+
+        sc.close();
     }
 }

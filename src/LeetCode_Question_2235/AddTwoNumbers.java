@@ -27,5 +27,7 @@ public class AddTwoNumbers {
 
         System.out.println("--------------------------------------------");
         System.out.println("The Sun of the numbers is : \033[32m" + res);
+
+        sc.close();
     }
 }

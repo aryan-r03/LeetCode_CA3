@@ -43,5 +43,7 @@ public class FindDuplicateNumbers {
         System.out.println("\033[34m" + Arrays.toString(nums) + "\033[0m");
         System.out.println("---------------------------------");
         System.out.println("The duplicate number is : \033[32m" + res);
+
+        sc.close();
     }
 }

@@ -41,6 +41,7 @@ public class FizzBuzz {
         System.out.println("=======================================");
         System.out.println("The final output is : \033[32m" + res);
 
+        sc.close();
 
     }
 }

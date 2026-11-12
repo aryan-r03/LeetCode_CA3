@@ -28,5 +28,7 @@ public class ConvertTheTemperature {
 
         System.out.println("=========================================");
         System.out.println("The Converted temperatures in [Kelvin, Fahrenheit] : \033[33m" + res[0] + "\033[0m | \033[33m" + res[1]);
+
+        sc.close();
     }
 }

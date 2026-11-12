@@ -26,5 +26,7 @@ public class PowXN {
 
         System.out.println("-------------------------------");
         System.out.println("The answer is : \033[32m" + res);
+
+        sc.close();
     }
 }

@@ -32,5 +32,7 @@ public class ValidParentheses {
             System.out.println("        -- \033[31mfalse\033[0m --");
             System.out.println("The parentheses is not valid.");
         }
+
+        sc.close();
     }
 }

@@ -36,6 +36,8 @@ public class ReverseInteger {
 
         System.out.println("-------------------------------------------");
         System.out.println("The reversed Integer is : \033[32m" + res);
+
+        sc.close();
     }
 
 }

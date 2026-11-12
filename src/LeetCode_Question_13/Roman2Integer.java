@@ -85,5 +85,7 @@ public class Roman2Integer {
         System.out.println("===========================================");
         System.out.println("The Roman Number is  : \033[33m" + str + "\033[0m");
         System.out.println("The Integer Value is : \033[32m" + res + "\033[0m");
+
+        sc.close();
     }
 }

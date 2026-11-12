@@ -44,6 +44,8 @@ public class MultiplyStrings {
 
         System.out.println("------------------------");
         System.out.println("The product is : \033[32m" + res);
+
+        sc.close();
     }
 
 }

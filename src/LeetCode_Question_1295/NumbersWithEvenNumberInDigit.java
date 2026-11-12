@@ -2,6 +2,8 @@ package LeetCode_Question_1295;
 
 // LeetCode Question No. 1295 == Find Numbers with Even Number in Digit;
 
+import java.util.Scanner;
+
 class Solution {
     public int findNumbers(int[] nums) {
         int answer = 0;
@@ -17,7 +19,10 @@ class Solution {
 
 public class NumbersWithEvenNumberInDigit {
     public static void main(String[] args) {
-        int[] nums = {12,345,2,6,7896};
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter 4-values of the array : ");
+        int[] nums = {sc.nextInt(), sc.nextInt(), sc.nextInt(), sc.nextInt()};
 
         Solution s1 = new Solution();
 
@@ -25,5 +30,7 @@ public class NumbersWithEvenNumberInDigit {
 
         System.out.println("-------------------------------------------");
         System.out.println("Numbers of Even number in the Digit are : \033[32m" + res);
+
+        sc.close();
     }
 }

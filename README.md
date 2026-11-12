@@ -2,7 +2,7 @@
 
 Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment.
 
-**Progress:** 10 of 17 questions completed
+**Progress:** 15 of 17 questions completed
 
 ## Solved Problems
 
@@ -19,7 +19,10 @@ Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment
 | 9.| 2235 | [Add Two Numbers](https://leetcode.com/problems/add-two-integers/) | Easy | [AddTwoNumbers.java](src/LeetCode_Question_412/AddTwoNumbers.java) |
 | 10.| 2469 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | [ConvertTheTemperature.java](src/LeetCode_Question_2469/ConvertTheTemperature.java) |
 | 11.| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [ReverseInteger.java](src/LeetCode_Question_412/ReverseInteger.java) |
-| 12.| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [PowXN.java](src/LeetCode_Question_2469/PowXN.java) |
+| 12.| 29 | [Divide Two integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [DivideTwoIntegers.java](src/LeetCode_Question_2469/DivideTwoIntegers.java) |
+| 13.| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [MultiplyStrings.java](src/LeetCode_Question_2469/MultiplyStrings.java) |
+| 14.| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [PowXN.java](src/LeetCode_Question_2469/PowXN.java) |
+| 15.| 287 | [Find the Duplicate Numbers](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [FindDuplicateNumbers.java](src/LeetCode_Question_2469/FindDuplicateNumbers.java) |
 
 
 ## Leet Code
@@ -47,8 +50,17 @@ LeetCode_CA2/
 │   ├── LeetCode_Question_20/
 │   │                     └── ValidParentheses.java
 │   │
+│   ├── LeetCode_Question_29/
+│   │                     └── DivideTwoIntegers.java
+│   │
+│   ├── LeetCode_Question_43/
+│   │                     └── MultiplyStrings.java
+│   │
 │   ├── LeetCode_Question_50/
 │   │                     └── PowXN.java
+│   │
+│   ├── LeetCode_Question_50/
+│   │                     └── FindDuplicateNumbers.java
 │   │
 │   ├── LeetCode_Question_412/
 │   │                     └── FizzBuzz.java

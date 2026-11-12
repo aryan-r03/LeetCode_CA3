@@ -2,7 +2,7 @@
 
 Java solutions to LeetCode problems, submitted as part of my Java CA3 assignment.
 
-**Progress:** 15 of 17 questions completed
+**Progress:** 17 of 17 questions completed ✅
 
 ## Solved Problems
 

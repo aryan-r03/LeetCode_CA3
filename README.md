@@ -85,9 +85,10 @@ LeetCode_CA2/
 │   ├── LeetCode_Question_2235/
 │   │                     └── AddTwoNumbers.java
 │   │
-│   └── LeetCode_Question_2469/
-│                         └── ConvertTheTemperature.java
-│  
+│   ├── LeetCode_Question_2469/
+│   │ 
+│   └── CA2_PDF
+│   
 ├── LeetCode_CA2.iml
 └── .gitignore
 ```
